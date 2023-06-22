@@ -1,4 +1,22 @@
-### Hi there 👋
+### Olá Pessoal, sou o Alan Ferreira
+
+Estou estudando desenvolvimento de sistemas na ETEC JA.
+
+Estudando no momento:
+<ul>
+  <li> MUUITO ALGORITMO </li>
+  <li> Python </li>
+  <li> C# </li>
+  <li> JavaScript </li>
+  <li> HTML </li>
+  <li> CSS </li>
+</ul>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraalan13&hide_progress=true)
+
+
+
+
 
 <!--
 **ferreiraalan13/ferreiraalan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
