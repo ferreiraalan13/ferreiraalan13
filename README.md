@@ -4,7 +4,7 @@ Estou estudando desenvolvimento de sistemas na ETEC JA.
 
 Estudando no momento:
 <ul>
-  <li> MUUITO ALGORITMO </li>
+  <li> PHP </li>
   <li> Python </li>
   <li> C# </li>
   <li> JavaScript </li>
